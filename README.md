@@ -2,7 +2,7 @@
 
 A deep learning pipeline for structured slot extraction from natural language food and restaurant ordering commands.
 
-Built from scratch as a learning project — no HuggingFace, no pretrained weights. Every component is hand-rolled in PyTorch.
+Built from scratch as a learning project — no HuggingFace, no pretrained weights. Every component is hand-rolled in PyTorch. 
 
 ## What it does
 
