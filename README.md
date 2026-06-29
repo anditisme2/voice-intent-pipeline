@@ -8,6 +8,6 @@ The NLU module is the entry point of CodeBud. Before any code can be generated, 
 Given a prompt like:
 > "Write a Python function to find factorial"
 The module extracts two things:  
-*Intent — what the user wants to do (e.g. generate_code, debug_code, explain_code)  
-*Slots — the parameters of that intent (e.g. language: Python, task: factorial function)  
+* Intent — what the user wants to do (e.g. generate_code, debug_code, explain_code)  
+* Slots — the parameters of that intent (e.g. language: Python, task: factorial function)  
 This structured output is then passed downstream to the code generation engine.
