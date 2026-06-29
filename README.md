@@ -4,7 +4,7 @@ Additionally, it can also assist in debugging and code correction.
 ## Project Status
 In development - Module 1 in progress
 ## Modules
-**Module 1:** Natural Language Understanding (NLU) Pipeline
+**Module 1:** Natural Language Understanding (NLU) Pipeline  
 The NLU module is the entry point of CodeBud. Before any code can be generated, the system must first understand what the user is asking — this is Module 1's job.
 Given a prompt like:
 > "Write a Python function to find factorial"
