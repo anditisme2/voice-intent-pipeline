@@ -16,16 +16,16 @@ This structured output is then passed downstream to the code generation engine.
 > *Powered by BiLSTM-CRF trained on the SNIPS NLU dataset.*
 
 **Module 2:** Code Generation Engine  
-  Generates syntactically correct, multi-language code from structured intent and slot inputs extracted by the NLU module
+  Generates syntactically correct, multi-language code from structured intent and slot inputs extracted by the NLU module  
 **Module 3:** Code Explanation  
   Explains generated code line by line in beginner-friendly language  
 **Module 4:** Debugging Assistant  
   Works alongside user to point out errors being generated or in case a source code is given, fixes the errors and return a clean code.  
 **Module 5:** Code Optimization  
-  Recommends efficient alternatives to improve execution speed and reduce memory usage
+  Recommends efficient alternatives to improve execution speed and reduce memory usage  
 **Module 6:** Documentation Generator  
-  Automatically produces inline comments, function descriptions, and README-ready API documentation
+  Automatically produces inline comments, function descriptions, and README-ready API documentation  
 **Module 7:** Learning Assistant  
-  Explains programming concepts, provides examples, and recommends resources based on user queries
+  Explains programming concepts, provides examples, and recommends resources based on user queries  
 **Module 8:** Code Review System  
-  Analyzes code quality, flags code smells, checks naming conventions, and suggests refactoring opportunities
+  Analyzes code quality, flags code smells, checks naming conventions, and suggests refactoring opportunities  
