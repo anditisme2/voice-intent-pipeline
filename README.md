@@ -13,7 +13,8 @@ The module extracts two things:
 * Intent — what the user wants to do (e.g. generate_code, debug_code, explain_code)  
 * Slots — the parameters of that intent (e.g. language: Python, task: factorial function)  
 This structured output is then passed downstream to the code generation engine.
-> *Powered by BiLSTM-CRF trained on the SNIPS NLU dataset.*  
+> *Powered by BiLSTM-CRF trained on the SNIPS NLU dataset.*
+
 **Module 2:** Code Generation Engine  
   Generates syntactically correct, multi-language code from structured intent and slot inputs extracted by the NLU module
 **Module 3:** Code Explanation  
